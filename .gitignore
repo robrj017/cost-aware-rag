@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# API keys and secrets
+secrets/
+*.key
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Colab
+drive/
