@@ -1,0 +1,11 @@
+Metric,Value
+Total requests,20.0
+Cache hit rate (%),55.00000000000001
+LLM calls,9.0
+20B calls,7.0
+120B calls,2.0
+Always-120B cost,0.0084269999999992
+Final system cost,0.0022635749999997
+Cost saved,0.0061634249999995006
+Cost reduction (%),73.13901744393124
+Average 20B/120B answer similarity,0.8825368881225586

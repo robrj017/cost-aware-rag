@@ -1,0 +1,2 @@
+query_a,query_b,query_similarity,relevance_jaccard,cache_hit,cache_similarity,answer_similarity,document_jaccard,cached_latency_sec
+Rapid up-regulation and higher basal expression of interferon-induced genes reduce survival of granule cell neurons that are infected by West Nile virus.,Rapid up-regulation and higher basal expression of interferon-induced genes increase survival of granule cell neurons that are infected by West Nile virus.,0.9978731870651245,1.0,True,0.9978731870651245,0.7635608315467834,1.0,0.03292820100023164

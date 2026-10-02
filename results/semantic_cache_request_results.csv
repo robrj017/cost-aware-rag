@@ -1,0 +1,21 @@
+query,cache_hit,latency_sec,input_tokens,output_tokens,total_tokens
+0-dimensional biomaterials lack inductive properties.,False,7.740390701999786,944,166,1110
+1 in 5 million in UK have abnormal PrP positivity.,False,18.950223774999813,2305,198,2503
+1-1% of colorectal cancer patients are diagnosed with regional or distant metastases.,False,15.59602178499972,1942,272,2214
+10% of sudden infant death syndrome (SIDS) deaths happen in newborns aged less than 6 months.,False,16.961421669000174,1925,210,2135
+32% of liver transplantation programs required patients to discontinue methadone treatment in 2001.,False,12.89590957900009,1648,296,1944
+4-PBA treatment decreases endoplasmic reticulum stress in response to general endoplasmic reticulum stress markers.,False,16.768809276999946,1909,159,2068
+4-PBA treatment raises endoplasmic reticulum stress in response to general endoplasmic reticulum stress markers.,True,0.027301598000121885,0,0,0
+40mg/day dosage of folic acid and 2mg/day dosage of vitamin B12 does not affect chronic kidney disease (CKD) progression.,False,19.31955378700013,2368,279,2647
+5'-nucleotidase metabolizes 6MP.,False,16.92675716399981,1943,190,2133
+50% of patients exposed to radiation have activated markers of mesenchymal stem cells.,False,10.858807643000091,1319,160,1479
+0-dimensional biomaterials lack inductive properties.,True,0.03781570399996781,0,0,0
+1 in 5 million in UK have abnormal PrP positivity.,True,0.042847814000197104,0,0,0
+1-1% of colorectal cancer patients are diagnosed with regional or distant metastases.,True,0.03997380700002395,0,0,0
+10% of sudden infant death syndrome (SIDS) deaths happen in newborns aged less than 6 months.,True,0.05454903899999408,0,0,0
+32% of liver transplantation programs required patients to discontinue methadone treatment in 2001.,True,0.06067965500005812,0,0,0
+4-PBA treatment decreases endoplasmic reticulum stress in response to general endoplasmic reticulum stress markers.,True,0.06491285500032973,0,0,0
+4-PBA treatment raises endoplasmic reticulum stress in response to general endoplasmic reticulum stress markers.,True,0.0607869989999017,0,0,0
+40mg/day dosage of folic acid and 2mg/day dosage of vitamin B12 does not affect chronic kidney disease (CKD) progression.,True,0.06518991300026755,0,0,0
+5'-nucleotidase metabolizes 6MP.,True,0.04237161799983369,0,0,0
+50% of patients exposed to radiation have activated markers of mesenchymal stem cells.,True,0.050360533999992185,0,0,0

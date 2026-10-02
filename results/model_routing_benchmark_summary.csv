@@ -1,0 +1,6 @@
+Metric,GPT-OSS-20B,GPT-OSS-120B
+Average Latency (sec),1.3269082927000226,11.948485506149927
+Average Input Tokens,1911.85,1911.85
+Average Output Tokens,239.05,238.55
+Average Total Tokens,2150.9,2150.4
+Average Cost ($),0.00021510375,0.00042990749999999994

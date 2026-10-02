@@ -1,0 +1,13 @@
+Metric,Baseline RAG,Semantic Cache
+Total Requests,20.0,20.0
+LLM Calls,20.0,9.0
+LLM Calls Avoided,0.0,11.0
+Cache Hit Rate,0.0,0.55
+Average Latency (sec),13.527053232000071,6.8282342458500125
+Latency Reduction (%),0.0,49.5216428239012
+Total Tokens,40507.0,18233.0
+Tokens Saved,0.0,22274.0
+Token Reduction (%),0.0,54.988026760806775
+Estimated Cost ($),0.0079134,0.0036034500000000002
+Cost Saved ($),0.0,0.004309949999999999
+Cost Reduction (%),0.0,54.46394722875123

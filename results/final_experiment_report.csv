@@ -1,0 +1,14 @@
+Metric,Value
+Retrieval Recall@1,0.482333
+Retrieval Recall@5,0.737944
+Retrieval Recall@10,0.783333
+Retrieval MRR,0.604725
+Cache Hit Rate,55.0
+Total Requests,20.0
+LLM Calls,9.0
+20B Calls,4.0
+120B Calls,5.0
+Average Answer Similarity,0.867138
+Always 120B Cost,0.008408
+Final System Cost,0.003025
+Cost Reduction,64.026261
